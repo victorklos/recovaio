@@ -32,12 +32,12 @@ are unsure how to proceed, then STOP NOW!**
     <pre>
         cd /media/MyDisk
         mkdir recovery
-        cd recover
+        cd recovery
     </pre>
 
     Change 'MyDisk' to the label of your own external drive. Or simply type `cd /media/` followed by two TABs to see your options. Note that you can inspect the amount of free space on your drive with `df -h .`
 
-*   _get this [Makefile](https://raw.github.com/victorklos/recovaio/master/Makefile):_
+*   _Get this [Makefile](https://raw.github.com/victorklos/recovaio/master/Makefile):_
 
     <pre>
         wget https://raw.github.com/victorklos/recovaio/master/Makefile
