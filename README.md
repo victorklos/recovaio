@@ -47,5 +47,5 @@ are unsure how to proceed, then STOP NOW!**
 
 ## Updates
 
-You are kindly invited to report unknown software. Please do so by providing the filename of the .wim file plus a short description stating what kind of software that particular installer provides. Also state if you want to remain anonymous as contributor. You can do this either through mail or by issueing a pull request.
+You are kindly invited to report unknown software. Please do so by providing the filename of the .wim file plus a short description stating what kind of software that particular installer provides. Also state if you want to remain anonymous as contributor. You can do this through mail, by issueing a pull request or through an issue.
 
