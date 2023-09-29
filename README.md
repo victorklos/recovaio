@@ -1,6 +1,8 @@
-# recovaio
+# This project is archived
 
-Victor Klos <victor@victorklos.nl>
+---
+
+# recovaio
 
 Recovery utility for SONY Vaio bundled software, based on the work of *darxide_sorcerer* as described at [forum.notebookreview.com](http://forum.notebookreview.com/sony/675143-how-recover-bundled-applications-like-adobe-suite-powerdvd-etc-sonys-hidden-recovery-partition.html).
 
